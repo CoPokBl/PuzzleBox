@@ -1,0 +1,102 @@
+{
+  "Name": "Computers",
+  "Intro": "Get the answers correct or you will be terminated.",
+  "WinMsg": "Nice job! You win, you get a computer! jk",
+  "Questions": [
+    
+    {
+      "Question": "What is the best operating system?",
+      "Answers": ["linux", "gnu/linux"],
+      "Hints": [
+        {
+          "FailedAttempts": 3,
+          "Text": "Think FOSS"
+        }
+      ]
+    },
+
+    {
+      "Question": "What programming language are websites written in?",
+      "Answers": ["html", "html5", "css", "js", "javascript", "wasm", "webassembly"],
+      "Hints": [
+        {
+          "FailedAttempts": 3,
+          "Text": "Hyper Text.... Language"
+        }
+      ]
+    },
+
+    {
+      "Question": "What is 1+1?",
+      "Answers": ["10", "one zero"],
+      "Hints": [
+        {
+          "FailedAttempts": 5,
+          "Text": "01101001 01110100 01110011 00100000 01100010 01101001 01101110 01100001 01110010 01111001"
+        }
+      ]
+    },
+
+    {
+      "Question": "Should you use Java?",
+      "Answers": ["no", "no way", "nope", "hell no", "fuck no", "fuck no way", "fuck nope", "fuck hell no"],
+      "Hints": [
+        {
+          "FailedAttempts": 1,
+          "Text": "Dude wtf"
+        }
+      ]
+    },
+
+    {
+      "Question": "How to center a div?",
+      "Answers": ["idk", "i dont know", "you dont", "you cant"],
+      "Hints": [
+        {
+          "FailedAttempts": 3,
+          "Text": "Google probably won't help"
+        },
+        {
+          "FailedAttempts": 5,
+          "Text": "Do you even know what a div is?"
+        },
+        {
+          "FailedAttempts": 8,
+          "Text": "If you don't know then just admit it"
+        },
+        {
+          "FailedAttempts": 10,
+          "Text": "Do you even know what a div is?"
+        }
+      ]
+    },
+
+    {
+      "Question": "Is Google cheating?",
+      "Answers": ["no", "nope", "no way", "hell no", "fuck no", "fuck no way", "fuck nope", "fuck hell no"],
+      "Hints": [
+        {
+          "FailedAttempts": 1,
+          "Text": "Is reading a manual cheating?"
+        }
+      ]
+    },
+
+    {
+      "Question": "Who is the best programmer?",
+      "Answers": ["you", "copokbl", "calcilore", "not me"],
+      "Hints": [
+        {
+          "FailedAttempts": 3,
+          "Text": "Ahem"
+        },
+        {
+          "FailedAttempts": 5,
+          "Text": "Who wrote this?"
+        }
+      ]
+    }
+    
+    
+  ]
+}
